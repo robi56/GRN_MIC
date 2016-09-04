@@ -7,7 +7,7 @@ Gene Regulatory Network Inference using Maximal Information Coefficient . The pa
 ### CLR(Context Likelihood Relatedness)
 
 ## Data Description 
-Yeast Data - 
-Noisy Data -
-E. Coli Data
+### Yeast Data - 
+### Noisy Data -
+### E. Coli Data
 
