@@ -20,7 +20,9 @@ CLR(Context Likelihood Relatedness)
 # R packages 
 
 minet - https://www.bioconductor.org/packages/release/bioc/html/minet.html
+
 energy - https://cran.r-project.org/package=energy
+
 minerva - https://cran.r-project.org/web/packages/minerva/index.html
  
 
