@@ -17,7 +17,7 @@ CLR(Context Likelihood Relatedness)
 ## Data Description 
  Yeast Data, Noisy Data, Ecoli data
  
-# R packages 
+## R packages 
 
 minet - https://www.bioconductor.org/packages/release/bioc/html/minet.html
 
