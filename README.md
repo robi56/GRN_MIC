@@ -1,6 +1,6 @@
 # GRN_MIC
 Gene Regulatory Network Inference using Maximal Information Coefficient . 
-## Thesis "Gene Regulatory Network Inference using Maximal Information Coefficeint"
+### Thesis "Gene Regulatory Network Inference using Maximal Information Coefficeint"
 ### By  S. M Amran (0907012) and Rabindra Nath Nandi(0907056)
 ### Supervised by Prof. Dr. Md. Aminul Haque Akand
 #### Department of CSE, Khulna University of Engineering and Technology , Bangladesh
