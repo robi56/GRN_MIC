@@ -9,7 +9,9 @@ Gene Regulatory Network (GRN) plays an important role to understand the interact
 ## Method 
 
 Maximal Information Coefficient 
+
 MRNET(Minimum Redundancy Netowrk) 
+
 CLR(Context Likelihood Relatedness)
 
 ## Data Description 
